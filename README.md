@@ -1,2 +1,4 @@
 # Jungha_Book
-내가 만드는 책!
+
+## aws
+[fargate](https://github.com/kimjungha/Jungha_Book.git)
