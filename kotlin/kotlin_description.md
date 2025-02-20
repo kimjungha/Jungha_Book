@@ -23,8 +23,6 @@
       val name: String? = null
       println(name?.length)  // null (NPE 발생하지 않음)
 
-
-
   * 🖍️ Elvis 연산자 (?:) nullable 값이 null 일경우 기본값을 지정할수있다. 
   * ````kotlin
         val name: String?= null 
